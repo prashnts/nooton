@@ -1,0 +1,12 @@
+# Used with MCP2221
+hidapi
+adafruit-blinka
+adafruit-circuitpython-ads1x15
+adafruit-circuitpython-ssd1327
+jupyter
+ipython
+ipykernel
+matplotlib
+
+# For ESP firmware
+platformio
